@@ -251,3 +251,11 @@ th {
     opacity: 1;
     z-index: -1;
 }
+
+
+
+/*KONTAKT*/
+.kontakt {
+    list-style: none;
+    align-items: center;
+}
