@@ -10,6 +10,7 @@ body {
 .lebenslauf,
 .zeugnisse {
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 /*graue Kopfzeile*/
